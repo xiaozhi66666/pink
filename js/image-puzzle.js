@@ -52,7 +52,7 @@ var imagePuzzle = {
         var percentage = 100 / (gridSize - 1);
         var image = {
             src: 'images/lotus-temple.jpg', // 使用你想要的图片路径
-            title: '武田人血蛋白包装' // 使用你想要的图片标题
+            title: '武田人血蛋白蛋白' // 使用你想要的图片标题
         };
 
         $('#imgTitle').html(image.title);
